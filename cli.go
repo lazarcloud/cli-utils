@@ -1,4 +1,4 @@
-package cli
+package cli_utils
 
 type CLI struct {
 	Name           string
