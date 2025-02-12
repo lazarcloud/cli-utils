@@ -1,4 +1,4 @@
-# reading-time
+# cli-utils
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/lazarcloud/cli-utils.svg)](https://pkg.go.dev/github.com/lazarcloud/cli-utils)
 
